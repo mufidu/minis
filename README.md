@@ -1,38 +1,12 @@
-Collections of my mini projects. Built as practice, mostly.
+Collections of my mini projects. Built as practice, mostly. All codes are [available on GitHub](https://github.com/mufidu/minis).
 
-<ul>
-    <li>
-        <a href="https://mufidu.com/projects/minis/tvshow-search"
-            >TV Show Searcher</a
-        >
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/calculator">Calculator</a>
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/number-guessing-game"
-            >Number Guessing Game</a
-        >
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/rgb-color-generator"
-            >RGB Color Generator</a
-        >
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/random-color-generator"
-            >Random Color Generator</a
-        >
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/rainbow-show">Rainbow Show</a>
-    </li>
-    <li>
-        <a href="https://mufidu.com/projects/minis/console-todolist"
-            >Console Log: To Do List</a
-        >
-    </li>
-</ul>
+-   [TV Show Searcher](https://mufidu.com/projects/minis/tvshow-search)
+-   [Calculator](https://mufidu.com/projects/minis/calculator)
+-   [Number Guessing Game](https://mufidu.com/projects/minis/number-guessing-game)
+-   [RGB Color Generator](https://mufidu.com/projects/minis/rgb-color-generator)
+-   [Random Color Generator](https://mufidu.com/projects/minis/random-color-generator)
+-   [Rainbow Show](https://mufidu.com/projects/minis/rainbow-show)
+-   [Console Log: To Do List](https://mufidu.com/projects/minis/console-todolist)
 
 <br>
 

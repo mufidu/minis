@@ -10,4 +10,4 @@ Collections of the other things I write, mostly as practice. All codes are [avai
 
 <br>
 
-<a href="https://mufidu.com/projects">&larr; back</a>
+<a href="https://mufidu.github.io">&larr; back</a>
